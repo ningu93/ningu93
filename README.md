@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hello 👋! My name is Ninganagouda Halli and I'm a Software Developer.</h1>
+<h1 align="left">Hello 👋! My self Ninganagouda Halli and I'm a Software Developer.</h1>
 
 ###
 
