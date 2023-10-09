@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hello 👋! My Self Ninganagouda Halli and I'm a Software Developer.</h1>
+<h1 align="left" style="color:blue">Hello 👋! My Self Ninganagouda Halli and I'm a Software Developer.</h1>
 
 ###
 
