@@ -41,7 +41,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ningu93/ningu93/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ningu93/ningu93/output/![200w](https://github.com/ningu93/ningu93/assets/142236143/95bb914f-1bcd-47bc-9398-bd09b5d30327)
+" alt="Snake animation" />
 
 ###
 
