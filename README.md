@@ -40,9 +40,7 @@
 </div>
 
 ###
-
-<img src="[https://raw.githubusercontent.com/ningu93/ningu93/output/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3AmRrtYYhR-xGkbuc93lbm&ust=1696946527466000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCICmj8uQ6YEDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3AmRrtYYhR-xGkbuc93lbm&ust=1696946527466000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCICmj8uQ6YEDFQAAAAAdAAAAABAD" alt="Snake animation" />
-
+<img src=""
 ###
 
 <h1 align="left">Have a grate day.</h1>
