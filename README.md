@@ -1,6 +1,5 @@
-<br clear="both">
-
 <body style="background-color: lightgray;">
+<br clear="both">
 
 <h1 align="left" style="color:blue">Hello 👋! My Self Ninganagouda Halli and I'm a Software Developer.</h1>
 
@@ -50,3 +49,4 @@
 <h1 align="left">Have a grate day.</h1>
 
 ###
+</body>
