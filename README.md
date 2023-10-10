@@ -1,5 +1,6 @@
-<body style="background-color: lightgray;">
-<br clear="both">
+<body style="background-color: blue;">
+
+  <br clear="both">
 
 <h1 align="left" style="color:blue">Hello 👋! My Self Ninganagouda Halli and I'm a Software Developer.</h1>
 
